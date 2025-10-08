@@ -46,7 +46,7 @@ During training, model accuracy improved from **38.16% (Epoch 1)** to **93.01% (
 
 
 
-### 📉 Confusion Matrix
+### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 
 
